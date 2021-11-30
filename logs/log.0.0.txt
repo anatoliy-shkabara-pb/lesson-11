@@ -1,0 +1,70 @@
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt ...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 1 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 2 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 3 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 4 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 5 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 6 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 7 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 8 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 9 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+FINE: Line 10 recorded ok 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createNumbersFile
+INFO: File /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt created!
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Reading from file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt ...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt ... 
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:54:53 PM hw9.FileNumbers createOddNumbersFile
+INFO: File /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt created!

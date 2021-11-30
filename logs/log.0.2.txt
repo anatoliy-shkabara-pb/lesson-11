@@ -1,0 +1,270 @@
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt ...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 1 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 2 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 3 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 4 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 5 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 6 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 7 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 8 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 9 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+FINE: Line 10 recorded ok 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createNumbersFile
+INFO: File /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt created!
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Reading from file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt ...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt ... 
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 35 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 31 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 10 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 56 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 67 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 86 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 87 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 88 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 92 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 51 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 54 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 65 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 73 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 77 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 73 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 7 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 20 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 85 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 6 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 8 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 41 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 81 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 46 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 52 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 94 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 42 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 56 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 45 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 15 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 28 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 47 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 38 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 33 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 45 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 38 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 80 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 72 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 59 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 41 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 88 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 28 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 69 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 53 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 60 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 24 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 8 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 88 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 76 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 15 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 93 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 40 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 1 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 89 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 91 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 98 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 24 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 56 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 83 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 11 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 22 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 32 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 100 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 51 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 84 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 57 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 24 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 82 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 15 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 61 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 98 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 88 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 90 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 78 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 22 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 45 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 55 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 17 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 46 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 30 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 8 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 5 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 96 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 7 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 46 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 35 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 32 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 82 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 41 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 43 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 77 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start line processing...
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 64 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 40 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 77 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 64 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 80 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 65 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 1 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 60 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 69 is odd
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINER: Number 84 is even
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+FINE: Finish line processing
+Nov 30, 2021 4:48:23 PM hw9.FileNumbers createOddNumbersFile
+INFO: File /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt created!

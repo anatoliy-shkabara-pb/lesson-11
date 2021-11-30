@@ -1,0 +1,43 @@
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt ...
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 1 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 2 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 3 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 4 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 5 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 6 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 7 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 8 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 9 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+FINE: Line 10 recorded ok 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createNumbersFile
+INFO: File /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt created!
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createOddNumbersFile
+FINE: Reading from file /Users/anatoliy/Documents/java-course/lesson-11/files/numbers.txt123 ...
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createOddNumbersFile
+FINE: Start creating file /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt ... 
+Nov 30, 2021 4:52:16 PM hw9.FileNumbers createOddNumbersFile
+SEVERE: Error creating file /Users/anatoliy/Documents/java-course/lesson-11/files/odd-numbers.txt: java.nio.file.NoSuchFileException: files/numbers.txt123
+java.nio.file.NoSuchFileException: files/numbers.txt123
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.util.Scanner.<init>(Scanner.java:668)
+	at hw9.FileNumbers.createOddNumbersFile(FileNumbers.java:58)
+	at hw9.FileNumbers.main(FileNumbers.java:112)
+
