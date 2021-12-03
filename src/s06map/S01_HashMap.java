@@ -7,7 +7,7 @@ public class S01_HashMap {
         HashMap<String, Double> planets = new HashMap<>();
 
         // добавление элементов
-        planets.put("Mercury", new Double(2439.7));
+        planets.put("Mercury", 2439.7);
         planets.put("Earth", new Double(6371));
         planets.put("Saturn", new Double(58232));
         planets.put("Neptune", new Double(24622));
@@ -34,7 +34,7 @@ public class S01_HashMap {
         System.out.println("after remove Saturn: " + planets);
 
         // список ключей
-        Set keys = planets.keySet();
+        Set<String> keys = planets.keySet();
         System.out.println("keySet: " + keys);
 
         // список значений
@@ -48,8 +48,8 @@ public class S01_HashMap {
         // перебор элементов Entry отображения с помощью for
         System.out.println();
         System.out.println("-for-");
-        for (Map.Entry me : planets.entrySet()) {
-            System.out.println("Key: "+me.getKey() + " & Value: " + me.getValue());
+        for (Map.Entry<String, Double> me : planets.entrySet()) {
+            System.out.println("Key: " + me.getKey() + " & Value: " + me.getValue());
         }
         System.out.println();
 

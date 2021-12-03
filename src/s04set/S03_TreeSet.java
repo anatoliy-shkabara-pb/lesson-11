@@ -12,6 +12,13 @@ public class S03_TreeSet {
             public A(int num) {
                 this.num = num;
             }
+
+            @Override
+            public String toString() {
+                return "A{" +
+                        "num=" + num +
+                        '}';
+            }
         }
 
         TreeSet<A> set = new TreeSet<>(new Comparator<A>() {
@@ -21,6 +28,10 @@ public class S03_TreeSet {
             }
         });
         set.add(new A(42));
+        set.add(new A(10));
+        set.add(new A(5));
+
+        System.out.println(set);
 
 
 
